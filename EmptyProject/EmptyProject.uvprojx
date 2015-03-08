@@ -409,9 +409,14 @@
           <GroupName>Source Files</GroupName>
           <Files>
             <File>
+              <FileName>main.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\main.c</FilePath>
+            </File>
+            <File>
               <FileName>Blinky.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\Blinky.c</FilePath>
+              <FilePath>.\src\Blinky.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -419,9 +424,9 @@
           <GroupName>Documentation</GroupName>
           <Files>
             <File>
-              <FileName>Abstract.txt</FileName>
+              <FileName>Instructions.txt</FileName>
               <FileType>5</FileType>
-              <FilePath>.\Abstract.txt</FilePath>
+              <FilePath>.\Instructions.txt</FilePath>
             </File>
           </Files>
         </Group>
@@ -792,7 +797,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath></IncludePath>
+              <IncludePath>.\lib</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -836,9 +841,14 @@
           <GroupName>Source Files</GroupName>
           <Files>
             <File>
+              <FileName>main.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\main.c</FilePath>
+            </File>
+            <File>
               <FileName>Blinky.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\Blinky.c</FilePath>
+              <FilePath>.\src\Blinky.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -846,9 +856,9 @@
           <GroupName>Documentation</GroupName>
           <Files>
             <File>
-              <FileName>Abstract.txt</FileName>
+              <FileName>Instructions.txt</FileName>
               <FileType>5</FileType>
-              <FilePath>.\Abstract.txt</FilePath>
+              <FilePath>.\Instructions.txt</FilePath>
             </File>
           </Files>
         </Group>
